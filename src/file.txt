@@ -1,1 +1,2 @@
 Change 22 new feature
+This is quick fix 2.
